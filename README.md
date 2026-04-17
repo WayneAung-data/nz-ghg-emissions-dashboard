@@ -23,7 +23,7 @@ Future development will include:
 ## Data Source
 - Greenhouse gas emissions (industry and household): March 2010–December 2025 quarters
 - Greenhouse gas emissions by region (industry and household): Year ended 2024
-- 
+
 ## Tools Used
 - Power BI
 - Power Query
