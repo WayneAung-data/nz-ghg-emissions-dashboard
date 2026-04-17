@@ -3,10 +3,9 @@ This is an ongoing project analysing sector-level greenhouse gas emissions in Ne
 
 ## Project Overview
 The project focuses on:
-- building an interactive dashboard in Power BI
-- transforming and cleaning emissions data using Power Query
+- building an interactive dashboard in Power BI to identify sectoral and regional patterns in greenhouse gas (GHG) emissions 
+- transforming and cleaning GHG data using Power Query
 - calculating year-on-year changes using DAX
-- identifying sectoral patterns such as high-emitting, low-emitting, and volatile sectors
 
 ## Current Scope
 The current version includes:
@@ -22,7 +21,7 @@ Future development will include:
 
 ## Repository Structure
 - `screenshots/` – progress + schema + visuals 
-- `fial-dashboard/` – final Power BI file later
+- `final-dashboard/` – final Power BI file later
 
 # Data Cleaning and Modelling
 ## Data Sources
