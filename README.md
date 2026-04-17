@@ -20,6 +20,10 @@ Future development will include:
 - improved dashboard styling and usability
 - further interpretation of structural emissions dynamics across sectors and regions
 
+## Repository Structure
+- `screenshots/` – progress + schema + visuals 
+- `fial-dashboard/` – final Power BI file later
+
 # Data Cleaning and Modelling
 ## Data Sources
 - GHG emissions by sector (quarterly, national) (Statistics New Zealand)
@@ -60,6 +64,3 @@ Future development will include:
 - Power Query
 - DAX
 
-## Repository Structure
-- `screenshots/` – progress + schema + visuals 
-- `fial-dashboard/` – final Power BI file later
