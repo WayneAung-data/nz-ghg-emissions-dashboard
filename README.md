@@ -16,9 +16,9 @@ The current version includes:
 
 ## Planned Extensions
 Future development will include:
-- stronger sector classification and analytical storytelling
+- stronger sector- and regional-level analytical storytelling
 - improved dashboard styling and usability
-- further interpretation of structural emissions dynamics across sectors
+- further interpretation of structural emissions dynamics across sectors and regions
 
 # Data Cleaning and Modelling
 ## Data Sources
@@ -63,4 +63,3 @@ Future development will include:
 ## Repository Structure
 - `screenshots/` – progress + schema + visuals 
 - `fial-dashboard/` – final Power BI file later
-- `docs/` – short notes (cleaning + model)
