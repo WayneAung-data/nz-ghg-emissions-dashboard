@@ -61,6 +61,6 @@ Future development will include:
 - DAX
 
 ## Repository Structure
-- `screenshots/` – dashboard previews
-- `docs/` – project notes and model diagrams
-- `data/` – selected cleaned or supporting data files where appropriate
+- `screenshots/` – progress + schema + visuals 
+- `dashboard/` – final Power BI file later
+- `docs/` – short notes (cleaning + model)
