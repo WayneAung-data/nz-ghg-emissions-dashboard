@@ -1,17 +1,18 @@
 # NZ GHG Emissions Dashboard
-This is an ongoing project analysing sector-level greenhouse gas emissions in New Zealand using Stats NZ data from 2010 to 2025.
+This is an ongoing project analysing sector- and regional-level greenhouse gas (GHG) emissions in New Zealand using Stats NZ data (2010-2025)
 
 ## Project Overview
 The project focuses on:
-- building an interactive dashboard in Power BI to identify sectoral and regional patterns in greenhouse gas (GHG) emissions 
+- building an interactive dashboard in Power BI to identify sectoral and regional patterns in GHG emissions 
 - transforming and cleaning GHG data using Power Query
 - calculating year-on-year changes using DAX
 
 ## Current Scope
-The current version includes:
+The current version includes (`screenshots/`):
 - initial dashboard structure
 - sector-level trend visualisation
 - summary indicators for emissions levels and annual changes
+- underlying star schema model implemented 
 
 ## Planned Extensions
 Future development will include:
