@@ -62,5 +62,5 @@ Future development will include:
 
 ## Repository Structure
 - `screenshots/` – progress + schema + visuals 
-- `dashboard/` – final Power BI file later
+- `fial-dashboard/` – final Power BI file later
 - `docs/` – short notes (cleaning + model)
